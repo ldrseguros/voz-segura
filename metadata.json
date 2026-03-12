@@ -1,0 +1,7 @@
+{
+  "name": "Remix Voz Segura",
+  "description": "Plataforma corporativa de denúncias anônimas para ambientes de trabalho.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
